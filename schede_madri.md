@@ -1,0 +1,6 @@
+2076447
+2075545
+
+ASUS ROG Strix B550-F Gaming (Wi-Fi 6)
+MSI MAG Z690 Tomahawk WiFi DDR4
+Gigabyte A520M DS3H
