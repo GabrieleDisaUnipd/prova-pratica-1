@@ -7,5 +7,6 @@
 
 ## Periferiche
 [tastiere](Periferiche/tastiere.md)
+[mouse](Periferiche/mouse.md)
 
 Elettronica Padovana
