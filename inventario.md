@@ -1,5 +1,6 @@
 2076447
 2075545
 
-[processori](processori.md)
-[schede_madri](schede_madri.md)
+## Componenti
+[processori](Componenti/processori.md)
+[schede_madri](Componenti/schede_madri.md)
